@@ -1,0 +1,34 @@
+{
+  "primary": "/Users/tanyazhong/projects/venture-hub/共享能力/T-4-团队渠道/runtime/ipbase/pool_20261026.json",
+  "secondary": "/Users/tanyazhong/projects/venture-hub/共享能力/T-4-团队渠道/runtime/ipbase/mac_delay_all.json",
+  "probe_date": "2026-10-26",
+  "source_rows": 69,
+  "unique_exit_ips": 69,
+  "ipv4_24_segments": 28,
+  "flag_distribution": {
+    "🇼🇸": 15,
+    "🇯🇵": 10,
+    "🇰🇷": 1,
+    "🇭🇰": 10,
+    "🇸🇬": 10,
+    "🇺🇸": 10,
+    "🇹🇭": 1,
+    "🇰🇭": 1,
+    "🇨🇦": 1,
+    "🇻🇳": 1,
+    "🇹🇷": 1,
+    "🇦🇷": 1,
+    "🇪🇬": 1,
+    "🇬🇧": 1,
+    "🇷🇺": 1,
+    "🇿🇦": 1,
+    "🇩🇪": 1,
+    "🇵🇭": 1,
+    "🇦🇪": 1
+  },
+  "throughput_measured": false,
+  "notes": [
+    "主文件是全队出口池快照；本包仅摘录飞兔云行。",
+    "没有吞吐数据，因此不生成测速图。"
+  ]
+}
